@@ -40,36 +40,35 @@ a:focus {
   border-bottom: 1px dashed #ddd;
   margin: 40px 0;
 }
+
 .polly-pink {
   margin-top: 5%;
-  margin-bottom: 5%;
-padding: 2% 5% 5% 5%;
+  padding: 2% 5% 5% 5%;
   height: auto;
   background-color: rgba(253, 108, 110, 0.5);
 }
 
+
+.polly {
+  margin-top: 5%;
+padding: 2% 5% 5% 5%;
+  height: auto;
+}
+
 .polly-green {
   margin-top: 5%;
-  margin-bottom: 5%;
   padding: 2% 5% 5% 5%;
   height: auto;
   background-color: rgba(33, 171, 132, 0.5);
 }
 .polly-orange {
   margin-top: 5%;
-  margin-bottom: 5%;
-padding: 2% 5% 5% 5%;
+  padding: 2% 5% 5% 5%;
   height: auto;
   background-color: rgba(255, 153, 51, 0.5);
 }
 
-#section4 {
-  padding-top: 50px;
-  min-height: 80vh;
-  height: auto;
-  color: #fff;
-  background-color: #21AB84;
-}
+
 
 #solution{
   padding-top: 50px;
@@ -141,9 +140,12 @@ nav ul li a {
   margin-right: auto;
   transition: all 0.3s;
 }
+
 .sectionimage{
-  max-height: 400px;
-  padding: 10% 10% 10% 10%;
+  display: inline-block;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 2% 10% 5% 10%;
 }
 
 .icon-image{
@@ -154,6 +156,20 @@ nav ul li a {
 }
 #features{
   padding: 2% 0 2% 0;
+}
+
+#communitypolly li{
+  list-style: none;
+  font-size: 1.7em;
+  line-height: 1.7em;
+
+}
+
+#action li{
+  list-style: none;
+  font-size: 1.7em;
+  line-height: 1.7em;
+
 }
 /* ---------------------------------------------------
     FOOTER STYLE
