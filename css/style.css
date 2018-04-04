@@ -67,12 +67,9 @@ padding: 2% 5% 5% 5%;
   background-color: rgba(255, 153, 51, 0.5);
 }
 
-
-
 #solution{
   padding-top: 50px;
   padding-bottom: 0px;
-
 }
 
 
@@ -168,6 +165,13 @@ nav ul li a {
   list-style: none;
   font-size: 1.7em;
   line-height: 1.7em;
+}
+
+
+#toolkit li{
+  list-style: none;
+  display: inline-block;
+  margin-left: 10px;
 
 }
 /* ---------------------------------------------------
