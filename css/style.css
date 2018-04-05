@@ -151,11 +151,15 @@ nav ul li a {
   padding: 2% 0 2% 0;
 }
 
-#communitypolly li{
-  list-style: none;
+#communitypolly li a{
   font-size: 1.3em;
   line-height: 1.7em;
+  margin-right: 10px;
 
+}
+
+li {
+    list-style: none;
 }
 
 #action li{
