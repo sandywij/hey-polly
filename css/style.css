@@ -162,10 +162,11 @@ li {
     list-style: none;
 }
 
-#action li{
+#action li a{
   list-style: none;
   font-size: 1.3em;
   line-height: 1.7em;
+  margin-right: 10px;
 
 }
 
