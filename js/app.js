@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $('body').scrollspy({target: ".navbar", offset: 0});
+    $('body').scrollspy({target: ".navbar", offset: 50});
 });
 
 $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
