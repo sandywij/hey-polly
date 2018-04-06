@@ -140,12 +140,6 @@ nav ul li a {
   padding: 2% 10% 5% 10%;
 }
 
-.icon-image{
-    margin: 0 0 0 0;
-    max-height: 30px;
-    display: inline-block;
-
-}
 #features{
   padding: 2% 0 2% 0;
 }
@@ -203,11 +197,11 @@ footer p{
 
 .btn{
   margin: 2% 2% 2% 2%;
-  font-size: 20px;
-  width: 25%;
+  font-size: 1.3em;
+  min-width: 25%;
+  position: relative;
   background-color: white;
   border: 2px solid rgba(33, 171, 132, 0.5);
-
 }
 
 .btn:hover{
